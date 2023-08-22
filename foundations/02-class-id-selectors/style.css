@@ -1,0 +1,18 @@
+.p-red {
+    background-color: #ff7777;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#div-blue {
+    color: #3e3eb3;
+    font-size: 36px;
+}
+
+#div-green {
+    background-color: #53d153;
+    font-weight: bold;
+}
